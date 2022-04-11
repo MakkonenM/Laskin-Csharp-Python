@@ -1,0 +1,28 @@
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.exe
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.deps.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.runtimeconfig.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.runtimeconfig.dev.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.dll
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.pdb
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.csproj.AssemblyReference.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.AssemblyInfoInputs.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.AssemblyInfo.cs
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.csproj.CoreCompileInputs.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.dll
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.pdb
+C:\Users\Miksumi\Desktop\Ohjelmointi\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.genruntimeconfig.cache
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.exe
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.deps.json
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.runtimeconfig.json
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.dll
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\bin\Debug\netcoreapp3.1\While switch.pdb
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.dll
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.pdb
+C:\Users\miksu\Desktop\Uusi kansio\Ohjelmointi 2\Laskin\C#\While switch\obj\Debug\netcoreapp3.1\While switch.genruntimeconfig.cache
