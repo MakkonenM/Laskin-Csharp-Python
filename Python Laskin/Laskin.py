@@ -17,12 +17,11 @@ def multiply(x, y):
 def divide(x, y):
     return x / y
 
-
-print("Valitse operaattori.")
-print("1.Lisää")
-print("2.Vähennä")
-print("3.Kertaa")
-print("4.Jaa")
+print("Valitse operaattori:")
+print("1 - Yhteenlasku")
+print("2 - Vähennyslasku")
+print("3 - Kertolasku")
+print("4 - Jaakolasku")
 
 while True:
     # Ottaa syötteen käyttäjältä
@@ -53,3 +52,5 @@ while True:
     
     else:
         print("Virheellinen syöte")
+
+print("Kiitoksia laskimen käytöstä!")

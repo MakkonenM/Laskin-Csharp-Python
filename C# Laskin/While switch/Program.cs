@@ -5,19 +5,21 @@ namespace While_switch
 {
     class Program
     {
+        // Yksinkertainen While Switch laskin
         static void Main(string[] args)
         {
-            Console.WriteLine("Tervetuloa Laskimeen");
+            Console.WriteLine("Tervetuloa laskimeen");
+            Console.WriteLine("--------------------");
             string Jatka = "yes";
             while (Jatka == "yes")
             {
-                Console.WriteLine("Kerro ensimmäinen numero:");
-                double num1 = Convert.ToDouble(Console.ReadLine()); //tai double num1 = double.parse(Console.ReadLine());
+                Console.WriteLine("Kerro ensimmäinen luku:");
+                double num1 = Convert.ToDouble(Console.ReadLine()); //tai: double num1 = double.parse(Console.ReadLine());
 
-                Console.WriteLine("Kerro toinen numero:");
-                double num2 = Convert.ToDouble(Console.ReadLine()); //tai double num1 = double.parse(Console.ReadLine());
+                Console.WriteLine("Kerro toinen luku:");
+                double num2 = Convert.ToDouble(Console.ReadLine()); //tai: double num1 = double.parse(Console.ReadLine());
 
-                Console.WriteLine("Valitse yksi näistä operaattoreista:");
+                Console.WriteLine("Valitse operaattori numerolla:");
                 Console.WriteLine("1 - Yhteenlasku");
                 Console.WriteLine("2 - Vähennyslasku");
                 Console.WriteLine("3 - Jakolasku");
@@ -46,12 +48,13 @@ namespace While_switch
                 }
                 else
                 {
-                    Console.WriteLine("Väärä vaihtoehto");
+                    Console.WriteLine("Väärä operaattori");
                 }
-                Console.WriteLine("Haluaisitko tehdä uuden laskun?[kyllä / ei(tai paina Enter)]");
+                Console.WriteLine("-------------------------------------------------------------");
+                Console.WriteLine("Haluaisitko tehdä uuden laskun?[kyllä / ei (tai paina Enter)]");
                 Jatka = Console.ReadLine();
             }
-            Console.WriteLine("Kiitoksia tämän ohjelman käytöstä. Paina Enter poistuaksesi.");
+            Console.WriteLine("Kiitoksia laskimen käytöstä. Paina Enter poistuaksesi.");
             Console.ReadKey();
         }
     }
