@@ -1,37 +1,37 @@
 
-# Program make a simple calculator
+# Yksinkertainen laskin
 
-# This function adds two numbers
+# Tämä funktio lisää kaksi numeroa
 def add(x, y):
     return x + y
 
-# This function subtracts two numbers
+# Tämä funktio vähentää kaksi lukua
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
+# Tämä funktio kertaa kaksi lukua
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
+# Tämä funktio jakaa kaksi lukua
 def divide(x, y):
     return x / y
 
 
-print("Select operation.")
-print("1.Add")
-print("2.Subtract")
-print("3.Multiply")
-print("4.Divide")
+print("Valitse operaattori.")
+print("1.Lisää")
+print("2.Vähennä")
+print("3.Kertaa")
+print("4.Jaa")
 
 while True:
-    # take input from the user
-    choice = input("Enter choice(1/2/3/4): ")
+    # Ottaa syötteen käyttäjältä
+    choice = input("Valitse vaihtoehto(1/2/3/4): ")
 
-    # check if choice is one of the four options
+    # Tarkistetaan onko syöte yksi näistä vaihtoehdoista
     if choice in ('1', '2', '3', '4'):
-        num1 = float(input("Enter first number: "))
-        num2 = float(input("Enter second number: "))
+        num1 = float(input("Laita eka numero: "))
+        num2 = float(input("Laita toinen numero: "))
 
         if choice == '1':
             print(num1, "+", num2, "=", add(num1, num2))
@@ -45,11 +45,11 @@ while True:
         elif choice == '4':
             print(num1, "/", num2, "=", divide(num1, num2))
         
-        # check if user wants another calculation
-        # break the while loop if answer is no
-        next_calculation = input("Let's do next calculation? (yes/no): ")
-        if next_calculation == "no":
+        # Kysytään haluuko käyttäjä laskea uudelleen
+        # Rikotaan looppi, jos vastaus on ei
+        next_calculation = input("Tehdäänkö uusi lasku? (kyllä/ei): ")
+        if next_calculation == "ei":
           break
     
     else:
-        print("Invalid Input")
+        print("Virheellinen syöte")
